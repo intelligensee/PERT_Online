@@ -13,7 +13,7 @@
     	<div class="conteudo">
     		<h3 align="center">Novo projeto</h3>
     		<form>
-    			<table align="center" class="estruturaFormulario">
+    			<table class="estruturaFormulario">
         			<tr>
         				<td class="nomeDosCampos">
         					<label>Nome do projeto</label>
