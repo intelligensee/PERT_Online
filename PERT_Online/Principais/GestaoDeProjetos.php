@@ -111,11 +111,11 @@
     			<label>
     				Total do CAPEX
     			</label>
-    			<input type="GPTxtTotalDoCAPEX">
+    			<input type="text" name="GPTxtTotalDoCAPEX" id="GPTxtTotalDoCAPEX">
     			<label>
     				Total do OPEX
     			</label>
-    			<input type="GPTxtTotalDoOPEX">
+    			<input type="text" name="GPTxtTotalDoCAPEX" id="GPTxtTotalDoCAPEX">
     		</form>
 
         </div>
