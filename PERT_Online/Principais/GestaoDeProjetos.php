@@ -11,7 +11,7 @@
     <body>
     	<?php include "../menu.php";?>
     	<div class="conteudo">
-    		<h3 align="center">Novo projeto</h3>
+    		<h3 align="center">Gestão de projeto</h3>
     		<form>
     			<table class="estruturaFormulario">
         			<tr>
